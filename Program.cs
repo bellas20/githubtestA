@@ -13,7 +13,6 @@ namespace githubtestA
             //comment #2 for github testing
             //github testing
             Console.WriteLine("Hello Github Test");
-
         }
     }
 }
