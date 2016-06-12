@@ -10,6 +10,7 @@ namespace githubtestA
     {
         static void Main(string[] args)
         {
+            //comment #3 for git testing
             //comment #2 for github testing
             //github testing
             Console.WriteLine("Hello Github Test");
